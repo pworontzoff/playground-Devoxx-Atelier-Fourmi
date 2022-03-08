@@ -1,0 +1,28 @@
+title : La fourmi de Langton avec des "Papers animés"
+plan:
+  - title: Introduction
+    statement: markdowns/welcome.md
+  - title: La fourmi de Langton - étape 1, la grille
+    statement: markdowns/step1.md
+
+projects:
+  paper_coeur:
+    root: "/Paper_coeur"
+    runner:
+      name: techio/cmake-gcc-runner
+      version: latest
+  paper_coeur_anim:
+    root: "/Paper_coeur_anim"
+    runner:
+      name: techio/cmake-gcc-runner
+      version: latest
+  fourmi1:
+    root: "/Fourmi1"
+    runner:
+      name: techio/cmake-gcc-runner
+      version: latest
+  fourmi:
+    root: "/Fourmi"
+    runner:
+      name: techio/cmake-gcc-runner
+      version: latest
