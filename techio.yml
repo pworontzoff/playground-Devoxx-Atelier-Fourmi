@@ -2,9 +2,9 @@ title : La fourmi de Langton avec des "Papers animés"
 plan:
   - title: Introduction
     statement: markdowns/welcome.md
-  - title: La fourmi de Langton - étape 1, la grille
+  - title: La fourmi de Langton - étape 1, la grille !
     statement: markdowns/step1.md
-  - title: La fourmi de Langton - étape 2, colorier
+  - title: La fourmi de Langton - étape 2, colorier !
     statement: markdowns/step2.md
 
 projects:
