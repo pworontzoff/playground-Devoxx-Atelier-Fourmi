@@ -26,7 +26,7 @@ est une instruction qui permet de créer et paramétrer une grille.
 **2** Pour afficher la grille nous pouvons utiliser l'instruction
 
 ```C
-display_paper()
+display_paper();
 ```
 
 qui permet d'afficher la grille !
