@@ -21,7 +21,7 @@ est une instruction qui permet de créer et paramétrer une grille.
 
 **! Nous devons écrire les bonnes valeurs de paramètres pour obtenir une grille de 7 x 7 avec des cases de 25 pixels de côtés et il faudra qu'une étape dure 0.5s.**
 
-**! Nous devons écrire cette instruction au bon endroit dans notre programme : à la ligne 6.**
+**! Nous devons écrire cette instruction au bon endroit dans notre programme : à la ligne 4.**
 
 **2** Pour afficher la grille nous pouvons utiliser l'instruction
 
