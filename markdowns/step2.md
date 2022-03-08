@@ -28,3 +28,5 @@ N'oubliez pas : L'ordre des instruction a de l'importance ! Et donc, par exemple
 2) Où le coloriage a-t-il été réalisé ?
 
 Les réponses à ces deux questions vous indiquent l'endroit "par défaut" où se trouve le "curseur" (qui indique l'endroit où l'on se trouve).
+
+Notre prochaine étape sera donc de pouvoir **déplacer ce curseur**.
