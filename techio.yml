@@ -6,6 +6,8 @@ plan:
     statement: markdowns/step1.md
   - title: La fourmi de Langton - étape 2, colorier !
     statement: markdowns/step2.md
+  - title: La fourmi de Langton - étape 3, se déplacer !
+    statement: markdowns/step3.md
 
 projects:
   paper_coeur:
