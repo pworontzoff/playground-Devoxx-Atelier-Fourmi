@@ -4,17 +4,21 @@
 
 Nous allons à présent déplacer le cursuer dans notre grille.
 
-Pour ce faire, nous pourrons utiliser l'instruction
+Pour ce faire, nous pourrons utiliser l'instruction `move_to` :
 
 ```C
-col();
+move_to(x, y); 
 ```
+est une instruction qui permet de déplacer le curseur dans la grille.
 
-qui permet de colorier la case sur laquelle on se trouve !
+- `x` est un premier *paramètre*, c'est un nombre entier qui donne le numéro de la colonne de la grille à atteindre
+- `y` est un deuxième paramètre (nombre entier) qui donne le numéro de la ligne à atteindre. 
 
 ## Alerte au piège !
 
-N'oubliez pas : L'ordre des instruction a de l'importance ! Et donc, par exemple, colorier avant de créer le Paper ou après l'avoir affiché ne fonctionnera pas !
+**! En programmation, on a pour habitude de commencer les numérotations à zéro. La première ligne porte donc le numéro 0 et la première colonne porte le numéro 0.**
+
+** De sorte que, par exemple, `move_to(0,2)` déplace le curseur à la première colonne, 3e ligne ! **
 
 ## Le programme C (à vous les commandes !)
 
