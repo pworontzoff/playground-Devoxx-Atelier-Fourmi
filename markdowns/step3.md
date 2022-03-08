@@ -2,12 +2,12 @@
 
 ## Les explications et les consignes
 
-Nous allons à présent colorier dans notre grille.
+Nous allons à présent déplacer le cursuer dans notre grille.
 
 Pour ce faire, nous pourrons utiliser l'instruction
 
 ```C
-colorize();
+col();
 ```
 
 qui permet de colorier la case sur laquelle on se trouve !
