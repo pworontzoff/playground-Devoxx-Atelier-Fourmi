@@ -31,7 +31,7 @@ display_paper()
 
 qui permet d'afficher la grille !
 
-**! L'ordre des instruction à de l'importance : afficher la grille avant de la créer ne fonctionnera pas.**
+**! L'ordre des instruction a de l'importance : afficher la grille avant de la créer ne fonctionnera pas.**
 
 
 ## Le programme C (à vous les commandes !)
