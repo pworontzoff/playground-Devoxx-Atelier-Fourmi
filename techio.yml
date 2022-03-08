@@ -4,6 +4,8 @@ plan:
     statement: markdowns/welcome.md
   - title: La fourmi de Langton - étape 1, la grille
     statement: markdowns/step1.md
+  - title: La fourmi de Langton - étape 2, colorier
+    statement: markdowns/step2.md
 
 projects:
   paper_coeur:
@@ -18,6 +20,11 @@ projects:
       version: latest
   fourmi1:
     root: "/Fourmi1"
+    runner:
+      name: techio/cmake-gcc-runner
+      version: latest
+  fourmi2:
+    root: "/Fourmi2"
     runner:
       name: techio/cmake-gcc-runner
       version: latest
