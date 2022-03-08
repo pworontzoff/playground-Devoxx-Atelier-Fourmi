@@ -1,11 +1,11 @@
 #include "paper.h"
 
 void init_paper(int nbl, int nbc, int size, float d, int useStepping) {
-    _init_paper(&_paper,nbl,nbc,size,d,useStepping);
+    /******** POUR DEVOXX DEPLACEMENT FOURMI ********/
+    ant_looks = right; // (up is 1 / right is 2 / down is 3 / left is 4)
+    /******** POUR DEVOXX DEPLACEMENT FOURMI ********/
 	
-/******** POUR DEVOXX DEPLACEMENT FOURMI ********/
-ant_looks = right; // (up is 1 / right is 2 / down is 3 / left is 4)
-/******** POUR DEVOXX DEPLACEMENT FOURMI ********/
+    _init_paper(&_paper,nbl,nbc,size,d,useStepping);
 }
 void display_paper() {
     _create_table(_paper);
