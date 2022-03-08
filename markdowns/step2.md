@@ -16,7 +16,7 @@ qui permet de colorier la case sur laquelle on se trouve !
 
 **! N'hésitez pas à revenir en arrière et copier-coller ci-dessous votre programme précédent avant de le modifier.**
 
-@[fourmi2]({"stubs": ["main.c"],"command": "sh /project/target/run.sh", "project" : "fourmi2"})
+@[fourmi1]({"stubs": ["main.c"],"command": "sh /project/target/run.sh", "project" : "fourmi1"})
 
 ## Petit quiz
 
