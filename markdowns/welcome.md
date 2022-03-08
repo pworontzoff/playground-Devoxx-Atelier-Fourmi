@@ -21,10 +21,10 @@ Nous venons de voir tout ce champ d'exploration ouvert par cet intriguant petit 
 Ne pourrions-nous pas aborder la programmation avec pour défi de reprogrammer cet algorithme ?
 
 Après tout, les règles de base sont simples :
-- si la case sous la fourmi n'est pas coloriée, elle colorie cette case, puis elle part à droite (en avançant d'une seule case) ;
+- Si la case sous la fourmi n'est pas coloriée, elle colorie cette case, puis elle part à droite (en avançant d'une seule case) ;
 ![fourmiCaseVide1](img/fourmiCaseVide1.PNG)
 ![fourmiCaseVide2](img/fourmiCaseVide2.PNG)
-- si la case sous la fourmi est coloriée, elle efface la couleur de cette case, puis elle part à gauche (en avançant d'une seule case).
+- Si la case sous la fourmi est coloriée, elle efface la couleur de cette case, puis elle part à gauche (en avançant d'une seule case).
 ![fourmiCasePleine1](img/fourmiCasePleine1.PNG)
 ![fourmiCasePleine2](img/fourmiCasePleine2.PNG)
 
