@@ -1,9 +1,6 @@
 #ifndef PAPER_H_INCLUDED
 #define PAPER_H_INCLUDED
 
-#include <stdio.h>
-#include <stdlib.h>
-
 #define repeat(n) _pile_repeat++;for(_cpt_repeat[_pile_repeat]=0;_cpt_repeat[_pile_repeat]<n;_cpt_repeat[_pile_repeat]++)
 #define loop _pile_repeat--
 
