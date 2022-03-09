@@ -1,6 +1,6 @@
 # La fourmi de langton - étape 1, la grille !
 
-## Les explications et les consignes
+## Les explications
 
 Nous commençons par construire la grille avec une taille de 7 x 7.
 
@@ -19,10 +19,6 @@ est une instruction qui permet de créer et paramétrer une grille.
 -  `delai_anim` est le temps de pause (en secondes) entre chaque coloriages ou effacements de cases. Ceci permet de contrôler la vitesse de l'animation. Ce délai peut-être un nombre décimal, par exemple 0.05 pour 5 centièmes de seconde.
 -  Nous ne nous préoccuperons pas du paramètre `ctrl_les_pas`, il devra être mis à 0.
 
-**! Nous devons écrire les bonnes valeurs de paramètres pour obtenir une grille de 7 x 7 avec des cases de 25 pixels de côtés et il faudra qu'une étape dure 0.5s.**
-
-**! Nous devons écrire cette instruction au bon endroit dans notre programme : à la ligne 4.**
-
 **2** Pour afficher la grille nous pouvons utiliser l'instruction
 
 ```C
@@ -30,6 +26,12 @@ display_paper();
 ```
 
 qui permet d'afficher la grille !
+
+## Les consignes de notre mission
+
+**A) Nous devons écrire l'instruction `init_paper();` (pour créer le Paper) au bon endroit dans notre programme (à la ligne 4) en donnant les bonnes valeurs de paramètres pour obtenir une grille de 7 x 7 avec des cases de 25 pixels de côtés et il faudra qu'une étape dure 0.5s.**
+
+**B) Nous devons ensuite écrire l'instruction `display_paper();` pour afficher le Paper.**
 
 **! L'ordre des instruction a de l'importance : afficher la grille avant de la créer ne fonctionnera pas.**
 
