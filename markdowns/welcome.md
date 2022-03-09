@@ -28,6 +28,8 @@ Après tout, les règles de base sont simples :
 ![fourmiCasePleine1](img/fourmiCasePleine1.PNG)
 ![fourmiCasePleine2](img/fourmiCasePleine2.PNG)
 
+<br />
+
 ## Les Papers
 
 Pour parvenir à nos fins, nous utiliserons le concept des "Papers". Un "Paper" est une grille dans laquelle on peut dessiner en coloriant des cases.
@@ -39,6 +41,8 @@ Voici un exemple de programme (codé en langage C) qui permet de créer et affic
 *NB : si vous obtenez l'erreur "Unable to open static viewer", ce n'est pas grave, il faut juste insister sur le bouton "run" et ça devrait finir par fonctionner.*
 
 @[paper_coeur]({"stubs": ["main.c"],"command": "sh /project/target/run.sh", "project" : "paper_coeur"})
+
+<br />
 
 ## Les Papers animés
 
@@ -53,6 +57,8 @@ Et donc, les plus perspicaces auront noté qu'on peut se servir des Papers anim�
 C'est ce que nous allons faire pas à pas dans les prochaines pages !
 
 Prêt pour l'aventure ? Alors, cliquez sur "Next", ci-dessous !
+
+<br />
 
 ## Rappel : Unable to open static viewer
 
