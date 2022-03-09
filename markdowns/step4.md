@@ -18,7 +18,7 @@ erase();
 
 ## Alerte au piège !
 
-** De sorte que, par exemple, `move_to(0,2)` déplace le curseur à la première ligne, troisième colonne ! **
+**Un piège ? Ou ça ? Non, non, pas de piège en vue !**
 
 <br />
 
