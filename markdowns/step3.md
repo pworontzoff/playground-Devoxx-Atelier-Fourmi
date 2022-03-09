@@ -4,7 +4,7 @@
 
 Nous allons à présent déplacer le cursuer dans notre grille.
 
-Pour ce faire, nous pourrons utiliser l'instruction `move_to` :
+Pour ce faire, nous pourrons utiliser l'instruction `move_to();` :
 
 ```C
 move_to(ligne, colonne); 
@@ -17,6 +17,8 @@ est une instruction qui permet de déplacer le curseur dans la grille.
 <br />
 
 ## Les consignes de notre mission
+
+**Juste avant de colorier, nous devons déplacer notre curseur en quatrième ligne, quatrième colonne (grâce à l'instruction** `move_to();` **) afin de positionner la fourmi au bon endroit !**
 
 <br />
 
