@@ -2,7 +2,15 @@
 
 ## Les explications
 
-Un des grands bons en avant historique de l'informatique a été accompli lorsque nous avons pu ajouter un peu d'intelligence aux calculatrices.
+Un des acquis de l'informatique dont on ne saurait plus se passer consiste à décrire en quelques lignes à un appareil électronique (pc, console, tablette, smartphone, ...) d'exécuter certaines instructions plusieurs fois.
+
+Peut-être 10 fois, peut-être 10 milliards de fois (et ça ne prend pas même un centième de seconde à une console de jeu).
+
+Si on devait faire ces caluls à la main...
+
+Et tout ça tient dans le concept incontournable des boucles.
+
+
 
 Après avoir réussi à faire calculer des machines à notre place, nous pouvions désormais leur faire suivre des décisions.
 
