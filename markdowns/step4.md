@@ -38,5 +38,3 @@ Si tout est bon, on constate que :
 C'est exactement ce qu'il nous faut car on voit ainsi en rouge les déplacements du curseur. Il nous suffit alors de dire que le curseur (en rouge), c'est la fourmi !
 
 Nous allons maintenant commencer une grande étape : faire prendre des décisions à notre fourmi !
-
-!!!!!!!! MEMO : étapes suivantes : 5) colorier OU effacer (alternatives) / 6) en boucle / 7) avec les mouvements ! / 8) plus grand plus loin / 9) fini la symétrie / 10) l'autoroute !
