@@ -1,4 +1,4 @@
-# La fourmi de langton - étape 3, se déplacer !
+# La fourmi de langton - étape 3, se déplacer avec move_to() !
 
 ## Les explications
 
