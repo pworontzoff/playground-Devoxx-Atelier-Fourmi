@@ -8,6 +8,8 @@ plan:
     statement: markdowns/step2.md
   - title: La fourmi de Langton - étape 3, se déplacer avec move_to()
     statement: markdowns/step3.md
+  - title: La fourmi de Langton - étape 4, effacer avec erase()
+    statement: markdowns/step4.md
 
 projects:
   paper_coeur:
