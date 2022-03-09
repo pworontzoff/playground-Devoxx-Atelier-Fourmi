@@ -12,6 +12,8 @@ plan:
     statement: markdowns/step4.md
   - title: La fourmi de Langton - étape 5, effacer ou bien colorier
     statement: markdowns/step5.md
+  - title: La fourmi de Langton - étape 6, en boucle !
+    statement: markdowns/step6.md
 projects:
   paper_coeur:
     root: "/Paper_coeur"
