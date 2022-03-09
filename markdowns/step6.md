@@ -20,32 +20,35 @@ repeat (n) {
 } loop;
 ```
 
-Dans `condition`, nous pourrons utiliser des instructions spécifiques qui sont parfois vraies, parfois fausses.
+Cette écriture permet de faire répéter plusieurs fois l'exécution d'un certain nombre d'instructions.
 
-Dans le cas où la condition est vraie, seules les instructions (que nous avons dénommées ici plus haut `instructions_si_condition_vraie`) qui sont placées entre la première paire d'accolades ({...}) seront exécutées, mais dans le cas contraire (si la condition est fausse), seules les instructions (que nous avons dénommées ici plus haut `instructions_si_condition_fausse`) qui sont placées entre la seconde paire d'accolades ({...}) seront exécutées !
+- `n` est le nombre de répétitions
+- `instructions_exécutées_n_fois` est une série d'instructions qui seront répétées exactement n fois.
 
-La condition que nous allons pouvoir utiliser sera une nouvelle instruction particulière :
+Par exemple, le code :
 
 ```C
-is_colored()
+repeat (6) {
+   colorize();
+   erase();
+} loop;
 ```
 
-qui indique si oui (vrai) ou non (faux) la case sous le curseur est coloriée.
-
-Cela veut donc dire que deux cas de figures peuvent se produire :
-a) soit la case sous le curseur est coloriée et dans ce cas l'instruction `is_colored()` sera considérée comme vraie ;
-b) soit la case sous le curseur n'est pas coloriée et dans ce cas l'instruction `is_colored()` sera considérée comme fausse.
+va provoquer 6 fois l'exécution d'un coloriage puis d'un effacement.
 
 <br />
 
 ## Les consignes de notre mission
 
-**Nous avions un programme qui nous permettait de colorier la case centrale *puis* de l'effacer. Nous allons maintenant devoir ajouter une alternative pour que notre programme efface *ou bien* colorie la case centrale selon que la case sous le curseur est coloriée ou non.**
+**Nous avions un programme qui nous permettait de colorier la case centrale selon que la case sous le curseur est coloriée ou non (grâce à une *alternative*).**
+
+**Nous devons maintenant répéter cette alternative 8 fois !**
 
 **Autrement dit :**
 
-**SI la case est coloriée, on l'efface
-SINON, on la colorie**
+**REPETER 8 FOIS :
+    SI la case est coloriée, on l'efface
+    SINON, on la colorie**
 
 <br />
 
