@@ -43,15 +43,20 @@ b) soit la case sous le curseur n'est pas coloriée et dans ce cas l'instruction
 
 **Nous avions un programme qui nous permettait de colorier la case centrale *puis* de l'effacer. Nous allons maintenant devoir ajouter une alternative pour que notre programme efface *ou bien* colorie la case centrale selon que la case sous le curseur est coloriée ou non.**
 
-**Autrement dit 
+**Autrement dit :**
 
-dans notre programme  colorié la case centrale (en 4e ligne, 4e colonne) et nous allons à présent effacer cette case (juste après l'avoir coloriée).**
+**SI la case est coloriée, on l'efface
+SINON, on la colorie**
 
 <br />
 
 ## Alerte au piège !
 
-**Un piège ? Où ça ? Non, non, pas de piège en vue !**
+**Bien respecter l'ordre des opérations :**
+**1) Créer le Paper animé ;**
+**2) Se déplacer sur la case du milieu ;**
+**3) SI la case est coloriée, on l'efface SINON, on la colorie ;**
+**4) Afficher le Paper animé.
 
 <br />
 
@@ -64,12 +69,8 @@ dans notre programme  colorié la case centrale (en 4e ligne, 4e colonne) et nou
 Si tout est bon, on constate que :
 
 1) La case se colorie en rouge lorsque le curseur arrive dessus ;
-2) La case se colorie en bleu lorsque nous colorions la case (avec `colorize()`);
-3) La case se colorie à nouveau en rouge car le curseur ne bouge pas (il se déplace... à la même place !) ;
-4) La case devient à nouveau blanche (non coloriée) lorsque nous effaçons la case (avec `erase()`).
+2) La case se colorie en bleu puisque la case sous le curseur n'est pas coloriée.
 
-C'est exactement ce qu'il nous faut car on voit ainsi en rouge les déplacements du curseur. Il nous suffit alors de dire que le curseur (en rouge), c'est la fourmi !
+La fourmi suis donc bien la règle ! Mais elle ne fait qu'une étape. Nous allons maintenant faire vivre plus détapes à notre fourmi !
 
-Nous allons maintenant commencer une grande étape : faire prendre des décisions à notre fourmi !
-
-!!!!!!!! MEMO : étapes suivantes : 5) colorier OU effacer (alternatives) / 6) en boucle / 7) avec les mouvements ! / 8) plus grand plus loin / 9) fini la symétrie / 10) l'autoroute !
+!!!!!!!! MEMO : étapes suivantes : 6) en boucle / 7) avec les mouvements ! / 8) plus grand plus loin / 9) fini la symétrie / 10) l'autoroute !
