@@ -26,7 +26,7 @@ est une instruction qui permet de déplacer le curseur dans le Paper.
 
 **! En programmation, on a pour habitude de commencer les numérotations à zéro. La première ligne porte donc le numéro 0 et la première colonne porte le numéro 0.**
 
-** De sorte que, par exemple, `move_to(0,2)` déplace le curseur à la première ligne, troisième colonne ! **
+**De sorte que, par exemple, `move_to(0,2)` déplace le curseur à la première ligne, troisième colonne !**
 
 <br />
 
