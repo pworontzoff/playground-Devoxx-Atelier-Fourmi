@@ -73,4 +73,4 @@ Sinon (donc si la case n'est pas coloriée), on la colorie, puis on tourne la fo
 
 Si tout est bon, on constate que la fourmi trace son chemin en respectant le petit dessin montré dans la vidéo d'introduction :
 
-![dessin8etapes](dessin8etapes.PNG)
+![dessin8etapes](img/dessin8etapes.PNG)
