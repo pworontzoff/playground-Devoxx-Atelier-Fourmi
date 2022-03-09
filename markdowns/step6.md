@@ -17,26 +17,9 @@ Nous pourrons donc programmer une boucle de plusieurs étapes pour notre fourmis
 ```C
 repeat (n) {
    instructions_exécutées_n_fois
-} loop
+} loop;
 ```
 
-Après avoir réussi à faire calculer des machines à notre place, nous pouvions désormais leur faire suivre des décisions.
-
-Il ne s'agit pas d'intelligence, car la machine ne prend aucune décision par elle-même. Elle ne fait que suivre des décisions programmées à l'avance.
-
-Et ce que nous allons faire maintenant, c'est d'utiliser ce mécanisme de programmation de prise de décision afin de faire *comme si* notre fourmi était intelligente et qu'on lui avait appris une règle à suivre.
-
-En programmation, ce mécanisme pour préprogrammer une prise de décision s'appelle une alternative.
-
-En langage C, une alternative s'écrira comme ceci :
-
-```C
-if (condition) {
-   instructions_si_condition_vraie
-} else {
-   instructions_si_condition_fausse
-}
-```
 Dans `condition`, nous pourrons utiliser des instructions spécifiques qui sont parfois vraies, parfois fausses.
 
 Dans le cas où la condition est vraie, seules les instructions (que nous avons dénommées ici plus haut `instructions_si_condition_vraie`) qui sont placées entre la première paire d'accolades ({...}) seront exécutées, mais dans le cas contraire (si la condition est fausse), seules les instructions (que nous avons dénommées ici plus haut `instructions_si_condition_fausse`) qui sont placées entre la seconde paire d'accolades ({...}) seront exécutées !
