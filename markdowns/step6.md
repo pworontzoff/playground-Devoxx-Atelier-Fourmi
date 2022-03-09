@@ -1,4 +1,4 @@
-# La fourmi de Langton - étape 6, en boucle !
+# La fourmi de Langton - étape 6, en boucle avec repeat(n) loop
 
 ## Les explications
 
