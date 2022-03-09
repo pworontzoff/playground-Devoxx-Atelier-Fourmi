@@ -6,7 +6,8 @@ Nous commençons par construire la grille avec une taille de 7 x 7.
 
 Pour ce faire, nous pourrons utiliser deux instructions qui permettent de créer et d'afficher une grille :
 
-<br /><br />**1** Pour créer la grille nous pouvons utiliser l'instruction `init_paper()` :
+<p style="text-align: center">**1**</p>
+Pour créer la grille nous pouvons utiliser l'instruction `init_paper()` :
 
 ```C
 init_paper(nb_lignes, nb_colonnes, taille, delai_anim, ctrl_les_pas); 
