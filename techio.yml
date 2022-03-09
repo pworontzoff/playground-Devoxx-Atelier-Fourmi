@@ -2,11 +2,11 @@ title : La fourmi de Langton avec des "Papers animés"
 plan:
   - title: Introduction
     statement: markdowns/welcome.md
-  - title: La fourmi de Langton - étape 1, la grille !
+  - title: La fourmi de Langton - étape 1, afficher le Paper avec initPaper() et displayPaper() !
     statement: markdowns/step1.md
-  - title: La fourmi de Langton - étape 2, colorier !
+  - title: La fourmi de Langton - étape 2, colorier avec colorize() !
     statement: markdowns/step2.md
-  - title: La fourmi de Langton - étape 3, se déplacer !
+  - title: La fourmi de Langton - étape 3, se déplacer avec move_to() !
     statement: markdowns/step3.md
 
 projects:
