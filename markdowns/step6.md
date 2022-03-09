@@ -68,9 +68,21 @@ va provoquer 6 fois l'exécution d'un coloriage puis d'un effacement.
 
 @[fourmi1]({"stubs": ["main.c"],"command": "sh /project/target/run.sh", "project" : "fourmi1"})
 
-Si tout est bon, on constate que :
+Si tout est bon, on constate que le point centrale clignote :
 
-1) La case se colorie en rouge lorsque le curseur arrive dessus ;
-2) La case se colorie en bleu puisque la case sous le curseur n'est pas coloriée.
+1) première répétition :
+    - La case du milieux se colorie en rouge puisque la fourmi a été posée sur cette case, qui n'est pas coloriée ;
+    - Puis la case se colorie en bleu puisque la case sous la fourmi n'est pas coloriée.
+2) deuxième répétition :
+    - La case du milieux se colorie en rouge puisque la fourmi n'a pas changé de case ; et elle est maintenant sur une case coloriée ;
+    - Puis la couleur de la case s'efface puisque la case sous la fourmi est coloriée.
+3) troisième répétition :
+    - La case du milieux se colorie en rouge puisque la fourmi n'a pas changé de case ; et elle est maintenant sur une case non coloriée ;
+    - Puis la case se colorie en bleu puisque la case sous la fourmi n'est pas coloriée.
+4) quatrième répétition :
+    - La case du milieux se colorie en rouge puisque la fourmi n'a pas changé de case ; et elle est maintenant sur une case coloriée ;
+    - Puis la couleur de la case s'efface puisque la case sous la fourmi est coloriée.
+etc.
 
-La fourmi suis donc bien la règle ! Mais elle ne fait qu'une étape. Nous allons maintenant faire vivre plus d'étapes à notre fourmi !
+
+La fourmi suis donc bien la règle et peut vivre et appliquer cette règle pendant plusieurs étapes. Il ne nous manque plus qu'à lui permettre de se déplacer en passant d'une case à l'autre !
