@@ -71,6 +71,4 @@ Si tout est bon, on constate que :
 1) La case se colorie en rouge lorsque le curseur arrive dessus ;
 2) La case se colorie en bleu puisque la case sous le curseur n'est pas coloriée.
 
-La fourmi suis donc bien la règle ! Mais elle ne fait qu'une étape. Nous allons maintenant faire vivre plus détapes à notre fourmi !
-
-!!!!!!!! MEMO : étapes suivantes : 6) en boucle / 7) avec les mouvements ! / 8) plus grand plus loin / 9) fini la symétrie / 10) l'autoroute !
+La fourmi suis donc bien la règle ! Mais elle ne fait qu'une étape. Nous allons maintenant faire vivre plus d'étapes à notre fourmi !
