@@ -11,7 +11,7 @@ move_to(x, y);
 ```
 est une instruction qui permet de déplacer le curseur dans la grille.
 
-- `x` est un premier *paramètre*, c'est un nombre entier qui donne le numéro de la colonne de la grille à atteindre
+- `x` est un premier paramètre, c'est un nombre entier qui donne le numéro de la colonne de la grille à atteindre
 - `y` est un deuxième paramètre (nombre entier) qui donne le numéro de la ligne à atteindre. 
 
 ## Alerte au piège !
