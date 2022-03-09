@@ -1,4 +1,4 @@
-# La fourmi de langton - étape 4, effacer avec erase()
+# La fourmi de Langton - étape 4, effacer avec erase()
 
 ## Les explications
 
