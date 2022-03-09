@@ -57,7 +57,7 @@ va provoquer 6 fois l'exécution d'un coloriage puis d'un effacement.
 **Bien respecter l'ordre des opérations :**<br />
 **1) Créer le Paper animé ;**<br />
 **2) Se déplacer sur la case du milieu ;**<br />
-**3) SI la case est coloriée, on l'efface SINON, on la colorie ;**<br />
+**3) REPETER 8 FOIS : SI la case est coloriée, on l'efface SINON, on la colorie ;**<br />
 **4) Afficher le Paper animé.**
 
 <br />
