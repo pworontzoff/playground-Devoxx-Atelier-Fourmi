@@ -18,7 +18,7 @@ erase();
 
 ## Alerte au piège !
 
-**Un piège ? Ou ça ? Non, non, pas de piège en vue !**
+**Un piège ? Où ça ? Non, non, pas de piège en vue !**
 
 <br />
 
