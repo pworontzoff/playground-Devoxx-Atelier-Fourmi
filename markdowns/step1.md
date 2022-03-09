@@ -20,7 +20,7 @@ est une instruction qui permet de créer et paramétrer une grille.
 -  `delai_anim` est le temps de pause (en secondes) entre chaque coloriages ou effacements de cases. Ceci permet de contrôler la vitesse de l'animation. Ce délai peut-être un nombre décimal, par exemple 0.05 pour 5 centièmes de seconde.
 -  Nous ne nous préoccuperons pas du paramètre `ctrl_les_pas`, il devra être mis à 0.
 
-<br /><br />**2** Pour afficher la grille nous pouvons utiliser l'instruction
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2**
 
 ```C
 display_paper();
