@@ -10,7 +10,7 @@ plan:
     statement: markdowns/step3.md
   - title: La fourmi de Langton - étape 4, effacer avec erase()
     statement: markdowns/step4.md
-  - title: La fourmi de Langton - étape 4, colorier ou effacer
+  - title: La fourmi de Langton - étape 5, colorier ou effacer
     statement: markdowns/step5.md
 projects:
   paper_coeur:
