@@ -1,4 +1,4 @@
-# La fourmi de langton - étape 2, colorier avec `colorize()` !
+# La fourmi de langton - étape 2, colorier avec `colorize()`
 
 ## Les explications
 
