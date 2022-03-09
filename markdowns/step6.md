@@ -47,8 +47,8 @@ va provoquer 6 fois l'exécution d'un coloriage puis d'un effacement.
 **Autrement dit :**
 
 **REPETER 8 FOIS :<br />
-    SI la case est coloriée, on l'efface<br />
-    SINON, on la colorie**
+&nbsp;&nbsp;&nbsp;SI la case est coloriée, on l'efface<br />
+&nbsp;&nbsp;&nbsp;SINON, on la colorie**
 
 <br />
 
