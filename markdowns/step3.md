@@ -1,6 +1,6 @@
 # La fourmi de langton - étape 3, se déplacer !
 
-## Les explications et les consignes
+## Les explications
 
 Nous allons à présent déplacer le cursuer dans notre grille.
 
@@ -14,17 +14,27 @@ est une instruction qui permet de déplacer le curseur dans la grille.
 - `ligne` est un premier paramètre, c'est un nombre entier qui donne le numéro de la ligne de la grille à atteindre
 - `colonne` est un deuxième paramètre (nombre entier) qui donne le numéro de la colonne à atteindre. 
 
+<br />
+
+## Les consignes de notre mission
+
+<br />
+
 ## Alerte au piège !
 
 **! En programmation, on a pour habitude de commencer les numérotations à zéro. La première ligne porte donc le numéro 0 et la première colonne porte le numéro 0.**
 
 ** De sorte que, par exemple, `move_to(0,2)` déplace le curseur à la première ligne, troisième colonne ! **
 
+<br />
+
 ## Le programme C (à vous les commandes !)
 
 **! N'hésitez pas à revenir en arrière et copier-coller ci-dessous votre programme précédent avant de le modifier.**
 
 @[fourmi1]({"stubs": ["main.c"],"command": "sh /project/target/run.sh", "project" : "fourmi1"})
+
+<br />
 
 ## Petit quiz
 
