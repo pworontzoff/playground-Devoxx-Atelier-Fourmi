@@ -2,16 +2,16 @@
 
 ## Les explications
 
-Nous allons à présent déplacer le cursuer dans notre grille.
+Nous allons à présent déplacer le cursuer dans notre Paper.
 
 Pour ce faire, nous pourrons utiliser l'instruction `move_to();` :
 
 ```C
 move_to(ligne, colonne); 
 ```
-est une instruction qui permet de déplacer le curseur dans la grille.
+est une instruction qui permet de déplacer le curseur dans le Paper.
 
-- `ligne` est un premier paramètre, c'est un nombre entier qui donne le numéro de la ligne de la grille à atteindre
+- `ligne` est un premier paramètre, c'est un nombre entier qui donne le numéro de la ligne du Paper à atteindre
 - `colonne` est un deuxième paramètre (nombre entier) qui donne le numéro de la colonne à atteindre. 
 
 <br />
@@ -35,14 +35,3 @@ est une instruction qui permet de déplacer le curseur dans la grille.
 **! N'hésitez pas à revenir en arrière et copier-coller ci-dessous votre programme précédent avant de le modifier.**
 
 @[fourmi1]({"stubs": ["main.c"],"command": "sh /project/target/run.sh", "project" : "fourmi1"})
-
-<br />
-
-## Petit quiz
-
-1) Avez-vous précisé à quel endroit vous vouliez colorier ?
-2) Où le coloriage a-t-il été réalisé ?
-
-Les réponses à ces deux questions vous indiquent l'endroit "par défaut" où se trouve le "curseur" (qui indique l'endroit où l'on se trouve).
-
-Notre prochaine étape sera donc de pouvoir **déplacer ce curseur**.
