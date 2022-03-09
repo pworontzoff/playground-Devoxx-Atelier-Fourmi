@@ -1,4 +1,4 @@
-# La fourmi de Langton - étape 5, colorier ou effacer
+# La fourmi de Langton - étape 5, effacer ou colorier
 
 ## Les explications
 
@@ -25,15 +25,27 @@ Dans `condition`, nous pourrons utiliser des instructions spécifiques qui sont 
 
 Dans le cas où la condition est vraie, seules les instructions (que nous avons dénommées ici plus haut `instructions_si_condition_vraie`) qui sont placées entre la première paire d'accolades ({...}) seront exécutées, mais dans le cas contraire (si la condition est fausse), seules les instructions (que nous avons dénommées ici plus haut `instructions_si_condition_fausse`) qui sont placées entre la seconde paire d'accolades ({...}) seront exécutées !
 
-La condition que nous allons pouvoir utiliser sera une nouvelle instrcution particulière :
+La condition que nous allons pouvoir utiliser sera une nouvelle instruction particulière :
 
+```C
+is_colored()
+```
 
+qui indique si oui (vrai) ou non (faux) la case sous le curseur est coloriée.
+
+Cela veut donc dire que deux cas de figures peuvent se produire :
+a) soit la case sous le curseur est coloriée et dans ce cas l'instruction `is_colored()` sera considérée comme vraie ;
+b) soit la case sous le curseur n'est pas coloriée et dans ce cas l'instruction `is_colored()` sera considérée comme fausse.
 
 <br />
 
 ## Les consignes de notre mission
 
-**Nous avons donc colorié la case centrale (en 4e ligne, 4e colonne) et nous allons à présent effacer cette case (juste après l'avoir coloriée).**
+**Nous avions un programme qui nous permettait de colorier la case centrale *puis* de l'effacer. Nous allons maintenant devoir ajouter une alternative pour que notre programme efface *ou bien* colorie la case centrale selon que la case sous le curseur est coloriée ou non.**
+
+**Autrement dit 
+
+dans notre programme  colorié la case centrale (en 4e ligne, 4e colonne) et nous allons à présent effacer cette case (juste après l'avoir coloriée).**
 
 <br />
 
