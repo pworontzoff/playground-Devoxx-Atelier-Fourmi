@@ -35,3 +35,5 @@ est une instruction qui permet de déplacer le curseur dans le Paper.
 **! N'hésitez pas à revenir en arrière et copier-coller ci-dessous votre programme précédent avant de le modifier.**
 
 @[fourmi1]({"stubs": ["main.c"],"command": "sh /project/target/run.sh", "project" : "fourmi1"})
+
+!!!!!!!! MEMO : étape suivante : effacer (colorier puis effacer) / colorier OU effacer (alternatives) / en boucle / avec les mouvements !
