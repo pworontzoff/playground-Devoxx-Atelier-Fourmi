@@ -30,7 +30,6 @@ erase();
 
 Si tout est bon, on constate que :
 
-1) la case est blanche (non coloriée)
 1) La case se colorie en rouge lorsque le curseur arrive dessus ;
 2) La case se colorie en bleu lorsque nous colorions la case (avec `colorize()`);
 3) La case se colorie à nouveau en rouge car le curseur ne bouge pas (il se déplace... à la même place !) ;
