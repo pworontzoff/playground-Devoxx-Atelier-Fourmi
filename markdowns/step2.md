@@ -1,6 +1,6 @@
 # La fourmi de langton - étape 2, colorier !
 
-## Les explications et les consignes
+## Les explications
 
 Nous allons à présent colorier dans notre grille.
 
@@ -12,15 +12,27 @@ colorize();
 
 qui permet de colorier la case sur laquelle on se trouve !
 
+<br />
+
+## Les consignes de notre mission
+
+il s'agit de colorier une case grace de notre Paper grâce à l'instruction `colorize();` !
+
+<br />
+
 ## Alerte au piège !
 
 N'oubliez pas : L'ordre des instruction a de l'importance ! Et donc, par exemple, colorier avant de créer le Paper ou après l'avoir affiché ne fonctionnera pas !
+
+<br />
 
 ## Le programme C (à vous les commandes !)
 
 **! N'hésitez pas à revenir en arrière et copier-coller ci-dessous votre programme précédent avant de le modifier.**
 
 @[fourmi1]({"stubs": ["main.c"],"command": "sh /project/target/run.sh", "project" : "fourmi1"})
+
+<br />
 
 ## Petit quiz
 
