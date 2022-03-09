@@ -1,4 +1,4 @@
-# La fourmi de langton - étape 1, la grille !
+# La fourmi de langton - étape 1, la grille (initPaper() et displayPaper()) !
 
 ## Les explications
 
