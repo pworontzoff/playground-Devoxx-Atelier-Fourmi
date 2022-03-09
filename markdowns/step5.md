@@ -52,11 +52,11 @@ SINON, on la colorie**
 
 ## Alerte au piège !
 
-**Bien respecter l'ordre des opérations :**
-**1) Créer le Paper animé ;**
-**2) Se déplacer sur la case du milieu ;**
-**3) SI la case est coloriée, on l'efface SINON, on la colorie ;**
-**4) Afficher le Paper animé.
+**Bien respecter l'ordre des opérations :**<br />
+**1) Créer le Paper animé ;**<br />
+**2) Se déplacer sur la case du milieu ;**<br />
+**3) SI la case est coloriée, on l'efface SINON, on la colorie ;**<br />
+**4) Afficher le Paper animé.**
 
 <br />
 
