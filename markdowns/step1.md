@@ -1,4 +1,4 @@
-# La fourmi de langton - étape 1, afficher le Paper avec init_paper() et display_paper()
+# La fourmi de Langton - étape 1, afficher le Paper avec init_paper() et display_paper()
 
 ## Les explications
 
