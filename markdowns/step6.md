@@ -1,4 +1,4 @@
-# La fourmi de Langton - étape 5, effacer ou bien colorier
+# La fourmi de Langton - étape 6, en boucle !
 
 ## Les explications
 
