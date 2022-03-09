@@ -4,7 +4,7 @@
 
 Nous commençons par construire le Paper avec une taille de 7 x 7.
 
-Pour ce faire, nous pourrons utiliser deux instructions qui permettent de créer et d'afficher un Paper :
+Pour ce faire, nous pourrons utiliser **deux instructions** qui permettent de créer et d'afficher un Paper :
 
 <br />
 
