@@ -12,8 +12,17 @@ plan:
     statement: markdowns/step4.md
   - title: La fourmi de Langton - étape 5, effacer ou bien colorier
     statement: markdowns/step5.md
-  - title: La fourmi de Langton - étape 6, en boucle !
+  - title: La fourmi de Langton - étape 6, en boucle avec repeat(n) loop
     statement: markdowns/step6.md
+  - title: La fourmi de Langton - étape 7, avec quelques mouvements !
+    statement: markdowns/step7.md
+  - title: La fourmi de Langton - étape 8, dézoom et comportement symétrique (472 étapes)
+    statement: markdowns/step8.md
+  - title: La fourmi de Langton - étape 9, dézoom et comportement cahotique (2000 étapes)
+    statement: markdowns/step9.md
+  - title: La fourmi de Langton - étape 10, dézoom et autoroute (11000 étapes)
+    statement: markdowns/step10.md
+
 projects:
   paper_coeur:
     root: "/Paper_coeur"
