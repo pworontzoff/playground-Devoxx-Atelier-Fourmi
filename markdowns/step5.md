@@ -2,7 +2,7 @@
 
 ## Les explications
 
-Un des grands bons en avant historique de l'informatique a été accompli lorsque nous avons pu ajouter un peu d'intelligence aux calculatrices.
+Un des grands bonds en avant historiques de l'informatique a été accompli lorsque nous avons pu ajouter un peu d'intelligence aux calculatrices.
 
 Après avoir réussi à faire calculer des machines à notre place, nous pouvions désormais leur faire suivre des décisions.
 
