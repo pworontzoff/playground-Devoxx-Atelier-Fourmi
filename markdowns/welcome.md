@@ -54,6 +54,6 @@ C'est ce que nous allons faire pas à pas dans les prochaines pages !
 
 Prêt pour l'aventure ? Alors, cliquez sur "Next", ci-dessous !
 
-## Unable to open static viewer
+## Rappel : Unable to open static viewer
 
-Petit rappel, si vous obtenez l'erreur "Unable to open static viewer", ce n'est pas grave, il faut juste insister sur le bouton "run" ;-) 
+Petit rappel avant de se lancer, si vous obtenez l'erreur "Unable to open static viewer", ce n'est pas grave, il faut juste insister sur le bouton "run" ;-) 
