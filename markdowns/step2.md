@@ -16,7 +16,7 @@ qui permet de colorier la case sur laquelle on se trouve !
 
 ## Les consignes de notre mission
 
-**Nous devons colorier une case grace de notre Paper grâce à l'instruction** `colorize();` **!**
+**Nous devons colorier une case de notre Paper grâce à l'instruction** `colorize();` **!**
 
 <br />
 
