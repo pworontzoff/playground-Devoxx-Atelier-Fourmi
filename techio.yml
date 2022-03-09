@@ -2,7 +2,7 @@ title : La fourmi de Langton avec des "Papers animés"
 plan:
   - title: Introduction
     statement: markdowns/welcome.md
-  - title: La fourmi de Langton - étape 1, afficher le Paper avec initPaper() et displayPaper()
+  - title: La fourmi de Langton - étape 1, afficher le Paper avec init_paper() et display_paper()
     statement: markdowns/step1.md
   - title: La fourmi de Langton - étape 2, colorier avec colorize()
     statement: markdowns/step2.md
