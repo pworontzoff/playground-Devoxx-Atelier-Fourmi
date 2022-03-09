@@ -2,7 +2,7 @@
 
 ## Les explications
 
-Nous allons à présent colorier dans notre grille.
+Nous allons à présent colorier dans notre Paper.
 
 Pour ce faire, nous pourrons utiliser l'instruction
 
