@@ -68,10 +68,5 @@ void change_color(short, short, short);
 int is_colored();
 struct RGB get_color();
 
-/********* POUR DEVOXX deplacement fourmi *********/
-void ant_turns_left_then_move();
-void ant_turns_right_then_move();
-/********* POUR DEVOXX deplacement fourmi *********/
-
 
 #endif // PAPER_H_INCLUDED
