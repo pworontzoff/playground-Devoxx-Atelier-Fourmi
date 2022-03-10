@@ -59,24 +59,20 @@ Nous avions une fourmi de Langton qui a effectué correctement :
 - 8 étapes ;
 - Dans un petit Paper de 7x7 ;
 - Avec des cases de 25 pixels de côtés ;
-- Avec un délai de pause entre chaque étape de l'animation de 0.5s ;
+- Avec un délai de pause entre chaque étape de l'animation d'une demi seconde ;
 - Et un curseur (notre fourmi) initialement positionné en 4e ligne, 4e colonne.
 
 Nous devons maintenant obtenir une fourmi de Langton qui va effectuer correctement :
 - 472 étapes ;
 - Dans un Paper de 15x15 ;
-- Avec des cases de 15 pixels de côtés ;
-- Avec un délai de pause entre chaque étape de l'animation de 0.25s ;
+- Avec des cases de 20 pixels de côtés ;
+- Avec un délai de pause entre chaque étape de l'animation de 25 millièmes de seconde ;
 - Et un curseur (notre fourmi) initialement positionné en 8e ligne, 8e colonne.
 <br />
 
 ## Alerte au piège !
 
-**Bien respecter l'ordre des opérations :**<br />
-**1) Créer le Paper animé ;**<br />
-**2) Se déplacer sur la case du milieu ;**<br />
-**3) REPETER 8 FOIS : SI la case est coloriée, on l'efface et la fourmi par à sa gauche SINON, on la colorie et le fourmi part à sa droite ;**<br />
-**4) Afficher le Paper animé.**
+**Veiller à écrire correctement *25 millièmes de secondes* en un nombre (avec une virgule) de secondes.**
 
 <br />
 
@@ -88,6 +84,6 @@ Nous devons maintenant obtenir une fourmi de Langton qui va effectuer correcteme
 
 Si tout est bon, on constate que la fourmi trace son chemin en respectant le petit dessin montré dans la vidéo d'introduction :
 
-![dessin8etapes](img/dessin8etapes.PNG)
+![dessin472etapes](img/dessin472etapes.PNG)
 
-La logique à suivre par la fourmi est maintenant programmée, ne nous reste plus qu'à tester avec une plus grande surface de Paper animé (en quelque sorte "dézoomer") et en augmentant le nombre d'étapes.
+Nous avons réussi à observer le comportement symétrique de la fourmi. Allons donc vérifier son comportement cahotique (cette "transition" que personne ne comprend vraiment !)
