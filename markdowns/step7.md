@@ -41,7 +41,7 @@ Et nous pourrons également dire à la fourmi de "tourner d'un quart de tour ver
 ant_turns_right_then_move();
 ```
 
-NB : Cette écriture peut faire penser à des instructions. C'est normal car en programmation, lorsqu'on utilise une fonction, c'est considéré comme une instruction ! Et d'autre part, toutes les instructions que nous avons utilisées jusqu'ici (`init_paper();`, `move_to();`, ...) sont des fonnctions.
+NB : Cette écriture peut faire penser à des instructions. C'est normal car en programmation, lorsqu'on utilise une fonction, c'est considéré comme une instruction ! Et d'autre part, toutes les instructions que nous avons utilisées jusqu'ici (`init_paper();`, `move_to();`, ...) sont des fonctions que nous utilisons.
 
 <br />
 
