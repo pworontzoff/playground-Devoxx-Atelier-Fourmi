@@ -22,62 +22,34 @@ est une instruction qui permet de créer et paramétrer un Paper animé.
 -  `delai_anim` est le temps de pause (en secondes) entre chaque coloriages ou effacements de cases. Ceci permet de contrôler la vitesse de l'animation. Ce délai peut-être un nombre décimal, par exemple 0.05 pour 5 centièmes de seconde.
 -  Nous ne nous préoccuperons pas du paramètre `ctrl_les_pas`, il devra être mis à 0.
 
-Nous allons également bien entendu augmenter le nombre de répétitions, cela se fera très simplement en modifiant la valeur de 'n' dans notre boucle.
+Mais en modifiant la taille du Paper, notre fourmi, pour rester au départ au milieu de celui-ci, doit se déplacer au bon endroit dans le Paper (juste après sa création).
+
+Nous devrons donc adapter les valeurs de paramètres de l'instructions `move_to();`
 
 Pour rappel :
 
 
 
-, en passant de 8 à 472 répétitions.
+Nous allons également bien entendu augmenter le nombre de répétitions, cela se fera très simplement en modifiant la valeur de 'n' dans notre boucle.
 
-!!!!!!!!!!!!!!!!!!!!!!!
-
-
-
-Mais nous voulions en fait qu'elle respecte les règles suivantes :
-
-- Si la case sous la fourmi est coloriée, elle efface la couleur de cette case, puis elle part à sa gauche (en avançant d'une seule case).
-![fourmiCasePleine1](img/fourmiCasePleine1.PNG)
-![fourmiCasePleine2](img/fourmiCasePleine2.PNG)
-- Si la case sous la fourmi n'est pas coloriée, elle colorie cette case, puis elle part à sa droite (en avançant d'une seule case) ;
-![fourmiCaseVide1](img/fourmiCaseVide1.PNG)
-![fourmiCaseVide2](img/fourmiCaseVide2.PNG)
-
-La programmation de ces mouvements dépendent de l'orientation de la fourmi (p. ex. si elle regarde vers le haut, "partir à sa gauche" n'aura pas le même résultat que si elle regarde vers le bas) et c'est un peu trop complexe à gérer pour cet atelier.
-
-Le code qui permet de gérer cela a donc déjà été écrit grâce à 2 *fonctions*.
-
-En programmation, une fonction permet de lancer l'exécution de certaines instructions qu'on n'aura plus besoin de réécrire explicitement.
-
-Par exemple, plutôt que d'écrire une longue séquence d'instruction du type :
-
-- Attrape la poignée de la porte !
-- Troune la poignée !
-- Ramène ton bras vers toi !
-- Lâche la poignée !
-
-Je pourrai simplement écrire :
-- Ouvre la porte !
-
-Il faut bien sûr, pour que ça marche, que la fonction ait été définie préalablement. Et cela a été fait de telle sorte que nous pourrons donc dire à la fourmi de "tourner d'un quart de tour vers sa gauche, puis avancer !" via la fonction :
+Pour rappel :
 
 ```C
-ant_turns_left_then_move();
+repeat (n) {
+   instructions_exécutées_n_fois
+} loop;
 ```
 
-Et nous pourrons également dire à la fourmi de "tourner d'un quart de tour vers sa droite, puis avancer !" via la fonction :
+Cette écriture permet de faire répéter plusieurs fois l'exécution d'un certain nombre d'instructions.
 
-```C
-ant_turns_right_then_move();
-```
-
-Cette écriture peut faire penser à des instructions. C'est normal car en programmation, lorsqu'on utilise une fonction, c'est une instruction !
+- `n` est le nombre de répétitions
+- `instructions_exécutées_n_fois` est une série d'instructions qui seront répétées exactement n fois.
 
 <br />
 
 ## Les consignes de notre mission
 
-**Nous avions un programme qui nous permettait d'effacer ou colorier une même case plusieurs fois.**
+**Nous avions une fourmi de Langton qui a effectué correctement 8 étapes dans un petit Paper de 7x7  programme qui nous permettait d'effacer ou colorier une même case plusieurs fois.**
 
 **Nous devons maintenant préciser que :<br />
 Si la case est coloriée, on l'efface, puis on tourne la fourmi d'un quart de tour vers sa gauche et on la fait avancer dune case  !<br />
