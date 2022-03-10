@@ -12,7 +12,7 @@ void ant_turns_right_then_move();
 int main()
 {
     ant_looks = right;
-    init_paper(75,75,10,0.0025,0);
+    init_paper(75,75,8,0.0005,0);
     move_to(37,37);
     repeat(11000) {
         if (!is_colored()) {
@@ -25,27 +25,6 @@ int main()
     } loop;
     display_paper();    
     return 0;
-}
-
-void ant_turns_right_then_move() {
-    switch (ant_looks) {
-        case up : // ant looks up
-            ant_looks = right;
-            move_right();
-            break;
-        case right : // ant looks right
-            ant_looks = down;
-            move_down();
-            break; 
-        case down : // ant looks down
-            ant_looks = left;
-            move_left();
-            break;
-        case left : // ant looks left
-            ant_looks = up;
-            move_up();
-            break; 
-    }
 }
 
 void ant_turns_left_then_move() {
@@ -63,6 +42,27 @@ void ant_turns_left_then_move() {
             move_right();
             break;
         case right : // ant looks right
+            ant_looks = up;
+            move_up();
+            break; 
+    }
+}
+
+void ant_turns_right_then_move() {
+    switch (ant_looks) {
+        case up : // ant looks up
+            ant_looks = right;
+            move_right();
+            break;
+        case right : // ant looks right
+            ant_looks = down;
+            move_down();
+            break; 
+        case down : // ant looks down
+            ant_looks = left;
+            move_left();
+            break;
+        case left : // ant looks left
             ant_looks = up;
             move_up();
             break; 
