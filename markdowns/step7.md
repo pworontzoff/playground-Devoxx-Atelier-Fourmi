@@ -75,4 +75,4 @@ Si tout est bon, on constate que la fourmi trace son chemin en respectant le pet
 
 ![dessin8etapes](img/dessin8etapes.PNG)
 
-La logique à suivre par la fourmi est maintenant programmée, ne nous reste plus qu'à tester avec une plus grande surface de Paper animé (en quelque sorte "dézoomer") et en augmentant le nombre d'étapes.
+La logique à suivre par la fourmi est maintenant programmée, ne nous reste plus qu'à tester avec une plus grande surface de Paper animé (en quelque sorte "dézoomer") et en augmentant le nombre de mouvements.
