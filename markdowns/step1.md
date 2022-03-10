@@ -35,9 +35,9 @@ qui permet d'afficher le Paper (s'il a été créé).
 
 ## Alerte au piège !
 
-**! L'ordre des instruction a de l'importance : afficher la grille avant de la créer ne fonctionnera pas.**
+! L'ordre des instruction a de l'importance : afficher la grille avant de la créer ne fonctionnera pas.
 
-**! Dans les langages informatiques, on se base non seulement sur l'anglais, mais aussi sur les notations anglo-saxonnes pour les nombres. De sorte que "0,5", s'écrit "0.5" !**
+! Dans les langages informatiques, on se base non seulement sur l'anglais, mais aussi sur les notations anglo-saxonnes pour les nombres. De sorte que "0,5", s'écrit "0.5" !
 
 <br />
 
