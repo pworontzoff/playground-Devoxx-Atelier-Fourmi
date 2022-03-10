@@ -1,4 +1,4 @@
-# La fourmi de Langton - étape 8, dézoom et comportement symétrique (472 étapes)
+# La fourmi de Langton - étape 8, dézoom et comportement symétrique (472 mouvement)
 
 ## Les explications
 
@@ -40,7 +40,7 @@ est une instruction qui permet de déplacer le curseur dans le Paper.
 
 <br /><br />
 
-Nous allons également bien entendu augmenter le nombre de répétitions, cela se fera très simplement en modifiant la valeur de 'n' dans notre boucle.
+Nous allons également bien entendu augmenter le nombre de mouvements de la fourmi, cela se fera très simplement en modifiant la valeur de 'n' dans notre boucle.
 
 Pour rappel :
 
@@ -60,14 +60,14 @@ Cette écriture permet de faire répéter plusieurs fois l'exécution d'un certa
 ## Les consignes de notre mission
 
 Nous avions une fourmi de Langton qui a effectué correctement :
-- *8* étapes ;
+- *8* mouvements ;
 - Dans un petit Paper de *7x7* ;
 - Avec des cases de *25* pixels de côtés ;
 - Avec un délai de pause entre chaque étape de l'animation *d'une demi seconde* ;
 - Et un curseur (notre fourmi) initialement positionné en *4e ligne, 4e colonne*.
 
 Nous devons maintenant obtenir une fourmi de Langton qui va effectuer correctement :
-- ***472*** étapes ;
+- ***472*** mouvements ;
 - Dans un Paper de ***15x15*** ;
 - Avec des cases de ***20*** pixels de côtés ;
 - Avec un délai de pause entre chaque étape de l'animation ***de 25 millièmes de seconde*** ;
