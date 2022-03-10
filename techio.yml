@@ -16,11 +16,11 @@ plan:
     statement: markdowns/step6.md
   - title: La fourmi de Langton - étape 7, avec quelques mouvements !
     statement: markdowns/step7.md
-  - title: La fourmi de Langton - étape 8, dézoom et comportement symétrique (472 étapes)
+  - title: La fourmi de Langton - étape 8, dézoom et comportement symétrique (472 mouvements)
     statement: markdowns/step8.md
-  - title: La fourmi de Langton - étape 9, dézoom et comportement cahotique (2000 étapes)
+  - title: La fourmi de Langton - étape 9, dézoom et comportement cahotique (2000 mouvements)
     statement: markdowns/step9.md
-  - title: La fourmi de Langton - étape 10, dézoom et autoroute (11000 étapes)
+  - title: La fourmi de Langton - étape 10, dézoom et autoroute (11000 mouvements)
     statement: markdowns/step10.md
 
 projects:
