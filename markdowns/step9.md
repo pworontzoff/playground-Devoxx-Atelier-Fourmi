@@ -19,7 +19,7 @@ Nous devons maintenant obtenir une fourmi de Langton qui va effectuer correcteme
 - ***2000*** mouvements ;
 - Dans un Paper de ***35x35*** ;
 - Avec des cases de ***15*** pixels de côtés ;
-- Avec un délai de pause entre chaque étape de l'animation ***de 1 millième de seconde*** ;
+- Avec un délai de pause entre chaque étape de l'animation ***de 3 millièmes de seconde*** ;
 - Et un curseur (notre fourmi) initialement positionné en ***18e ligne, 18e colonne***.
 <br />
 
