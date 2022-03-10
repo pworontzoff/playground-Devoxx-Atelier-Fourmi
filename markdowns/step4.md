@@ -12,7 +12,7 @@ erase();
 
 ## Les consignes de notre mission
 
-**Nous avons donc colorié la case centrale (en 4e ligne, 4e colonne) et nous allons à présent effacer cette case (juste après l'avoir coloriée).**
+**Nous avons donc colorier la case centrale (en 4e ligne, 4e colonne) et nous allons à présent effacer cette case (juste après l'avoir coloriée).**
 
 <br />
 
