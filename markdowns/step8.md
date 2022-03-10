@@ -28,7 +28,13 @@ Nous devrons donc adapter les valeurs de paramètres de l'instructions `move_to(
 
 Pour rappel :
 
+```C
+move_to(ligne, colonne); 
+```
+est une instruction qui permet de déplacer le curseur dans le Paper.
 
+- `ligne` est un premier paramètre, c'est un nombre entier qui donne le numéro de la ligne du Paper à atteindre
+- `colonne` est un deuxième paramètre (nombre entier) qui donne le numéro de la colonne à atteindre. 
 
 Nous allons également bien entendu augmenter le nombre de répétitions, cela se fera très simplement en modifiant la valeur de 'n' dans notre boucle.
 
@@ -49,12 +55,19 @@ Cette écriture permet de faire répéter plusieurs fois l'exécution d'un certa
 
 ## Les consignes de notre mission
 
-**Nous avions une fourmi de Langton qui a effectué correctement 8 étapes dans un petit Paper de 7x7  programme qui nous permettait d'effacer ou colorier une même case plusieurs fois.**
+Nous avions une fourmi de Langton qui a effectué correctement :
+- 8 étapes ;
+- Dans un petit Paper de 7x7 ;
+- Avec des cases de 25 pixels de côtés ;
+- Avec un délai de pause entre chaque étape de l'animation de 0.5s ;
+- Et un curseur (notre fourmi) initialement positionné en 4e ligne, 4e colonne.
 
-**Nous devons maintenant préciser que :<br />
-Si la case est coloriée, on l'efface, puis on tourne la fourmi d'un quart de tour vers sa gauche et on la fait avancer dune case  !<br />
-Sinon (donc si la case n'est pas coloriée), on la colorie, puis on tourne la fourmi d'un quart de tour vers sa droite et on la fait avancer d'une case  !**
-
+Nous devons maintenant obtenir une fourmi de Langton qui va effectuer correctement :
+- 472 étapes ;
+- Dans un Paper de 15x15 ;
+- Avec des cases de 15 pixels de côtés ;
+- Avec un délai de pause entre chaque étape de l'animation de 0.25s ;
+- Et un curseur (notre fourmi) initialement positionné en 8e ligne, 8e colonne.
 <br />
 
 ## Alerte au piège !
