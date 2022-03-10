@@ -2,7 +2,7 @@
 
 ## Les explications
 
-Nous commençons par construire le Paper avec une taille de 7 x 7.
+Nous commençons par construire le Paper (animé) avec une taille de 7 x 7.
 
 Pour ce faire, nous pourrons utiliser **deux instructions** qui permettent de créer et d'afficher un Paper :
 
@@ -13,7 +13,7 @@ Pour ce faire, nous pourrons utiliser **deux instructions** qui permettent de cr
 ```C
 init_paper(nb_lignes, nb_colonnes, taille, delai_anim, ctrl_les_pas); 
 ```
-est une instruction qui permet de créer et paramétrer un Paper.
+est une instruction qui permet de créer et paramétrer un Paper animé.
 
 - `nb_lignes` est un premier *paramètre*, c'est un nombre entier qui donne le nombre de lignes de le Paper
 - `nb_colonnes` est un deuxième paramètre (nombre entier) qui donne le nombre de colonnes de la Peper
