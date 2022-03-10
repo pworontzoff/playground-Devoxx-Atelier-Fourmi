@@ -40,7 +40,7 @@ est une instruction qui permet de déplacer le curseur dans le Paper.
 
 <br /><br />
 
-Nous allons également bien entendu augmenter le nombre de mouvements de la fourmi, cela se fera très simplement en modifiant la valeur de 'n' dans notre boucle.
+Nous allons également bien entendu augmenter le nombre de mouvements de la fourmi, cela se fera très simplement en modifiant la valeur de `n` dans notre boucle.
 
 Pour rappel :
 
