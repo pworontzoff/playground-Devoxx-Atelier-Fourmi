@@ -1,4 +1,4 @@
-# La fourmi de Langton - étape 9, dézoom et comportement cahotique (2000 étapes)
+# La fourmi de Langton - étape 9, dézoom et comportement cahotique (2000 mouvements)
 
 ## Les explications
 
@@ -9,18 +9,18 @@ Pour cela nous allons faire exactement comme à l'étape précédente mais avec 
 ## Les consignes de notre mission
 
 Nous avions une fourmi de Langton qui a effectué correctement :
-- *472* étapes ;
+- *472* mouvements ;
 - Dans un Paper de *15x15* ;
 - Avec des cases de *20* pixels de côtés ;
 - Avec un délai de pause entre chaque étape de l'animation *de 25 millièmes de seconde* ;
 - Et un curseur (notre fourmi) initialement positionné en *8e ligne, 8e colonne*.
 
 Nous devons maintenant obtenir une fourmi de Langton qui va effectuer correctement :
-- ***472*** étapes ;
-- Dans un Paper de ***15x15*** ;
-- Avec des cases de ***20*** pixels de côtés ;
-- Avec un délai de pause entre chaque étape de l'animation ***de 25 millièmes de seconde*** ;
-- Et un curseur (notre fourmi) initialement positionné en ***8e ligne, 8e colonne***.
+- ***2000*** mouvements ;
+- Dans un Paper de ***35x35*** ;
+- Avec des cases de ***15*** pixels de côtés ;
+- Avec un délai de pause entre chaque étape de l'animation ***de 1 millième de seconde*** ;
+- Et un curseur (notre fourmi) initialement positionné en ***18e ligne, 18e colonne***.
 <br />
 
 ## Alerte au piège !
