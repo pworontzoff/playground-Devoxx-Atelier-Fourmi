@@ -33,13 +33,20 @@ qui permet d'afficher le Paper (s'il a été créé).
 
 <br />
 
+## Alerte au piège !
+
+**! L'ordre des instruction a de l'importance : afficher la grille avant de la créer ne fonctionnera pas.**
+
+**Dans les langages informatiques, on se base non seulement sur l'anglais, mais aussi sur les notations anglo-saxonnes pour les nombres. De sorte que "0,5", s'écrit "0.5" !**
+
+<br />
+
 ## Les consignes de notre mission
 
 **A) Nous devons écrire l'instruction `init_paper();` (pour créer le Paper) au bon endroit dans notre programme (à la ligne 4) en donnant les bonnes valeurs de paramètres pour obtenir une grille de 7 x 7 avec des cases de 25 pixels de côtés et il faudra qu'une étape dure 0.5s.**
 
 **B) Nous devons ensuite écrire l'instruction `display_paper();` pour afficher le Paper.**
 
-**! L'ordre des instruction a de l'importance : afficher la grille avant de la créer ne fonctionnera pas.**
 
 
 ## Le programme C (à vous les commandes !)
