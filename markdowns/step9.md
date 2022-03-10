@@ -1,4 +1,4 @@
-# La fourmi de Langton - étape 8, dézoom et comportement symétrique (472 étapes) !
+# La fourmi de Langton - étape 9, dézoom et comportement cahotique (2000 étapes)
 
 ## Les explications
 
@@ -25,7 +25,7 @@ Nous devons maintenant obtenir une fourmi de Langton qui va effectuer correcteme
 
 ## Alerte au piège !
 
-**Veiller à écrire correctement *25 millièmes de secondes* en un nombre (avec une virgule) de secondes.**
+**Pas de piège en vue, capitaine !**
 
 <br />
 
