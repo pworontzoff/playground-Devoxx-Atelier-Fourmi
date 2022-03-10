@@ -34,8 +34,8 @@ is_colored()
 qui indique si oui (vrai) ou non (faux) la case sous le curseur est coloriée.
 
 Cela veut donc dire que deux cas de figures peuvent se produire :<br />
-a) soit la case sous le curseur est coloriée et dans ce cas l'instruction `is_colored()` sera considérée comme vraie ;<br />
-b) soit la case sous le curseur n'est pas coloriée et dans ce cas l'instruction `is_colored()` sera considérée comme fausse.
+&nbsp;&nbsp;&nbsp;a) soit la case sous le curseur est coloriée et dans ce cas l'instruction `is_colored()` sera considérée comme vraie ;<br />
+&nbsp;&nbsp;&nbsp;b) soit la case sous le curseur n'est pas coloriée et dans ce cas l'instruction `is_colored()` sera considérée comme fausse.
 
 <br />
 
