@@ -4,7 +4,7 @@
 
 Un des acquis de l'informatique dont on ne saurait plus se passer consiste à décrire en quelques lignes à un appareil électronique (pc, console, tablette, smartphone, ...) d'exécuter certaines instructions plusieurs fois.
 
-Peut-être 10 fois, peut-être 10 milliards de fois (et ça ne prend pas même un centième de seconde à une console de jeu).
+Peut-être 10 fois, peut-être 10 milliards de fois (et ça ne prend pas même un centième de seconde à une console de jeu de répéter une opération 10 milliards de fois).
 
 Si on devait faire ces caluls à la main...
 
