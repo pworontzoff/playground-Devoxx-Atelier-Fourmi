@@ -71,16 +71,16 @@ va provoquer 6 fois l'exécution d'un coloriage puis d'un effacement.
 Si tout est bon, on constate que le point centrale clignote :
 
 1) Première répétition :
-    - La case du milieux se colorie en rouge puisque la fourmi a été posée sur cette case, qui n'est pas coloriée ;
+    - La case du milieu se colorie en rouge puisque la fourmi a été posée sur cette case, qui n'est pas coloriée ;
     - Puis la case se colorie en bleu puisque la case sous la fourmi n'est pas coloriée.
 2) Deuxième répétition :
-    - La case du milieux se colorie en rouge puisque la fourmi n'a pas changé de case ; et elle est maintenant sur une case coloriée ;
+    - La case du milieu se colorie en rouge puisque la fourmi n'a pas changé de case ; et elle est maintenant sur une case coloriée ;
     - Puis la couleur de la case s'efface puisque la case sous la fourmi est coloriée.
 3) Troisième répétition :
-    - La case du milieux se colorie en rouge puisque la fourmi n'a pas changé de case ; et elle est maintenant sur une case non coloriée ;
+    - La case du milieu se colorie en rouge puisque la fourmi n'a pas changé de case ; et elle est maintenant sur une case non coloriée ;
     - Puis la case se colorie en bleu puisque la case sous la fourmi n'est pas coloriée.
 4) Quatrième répétition :
-    - La case du milieux se colorie en rouge puisque la fourmi n'a pas changé de case ; et elle est maintenant sur une case coloriée ;
+    - La case du milieu se colorie en rouge puisque la fourmi n'a pas changé de case ; et elle est maintenant sur une case coloriée ;
     - Puis la couleur de la case s'efface puisque la case sous la fourmi est coloriée.
 etc.
 
