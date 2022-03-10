@@ -22,7 +22,9 @@ plan:
     statement: markdowns/step9.md
   - title: La fourmi de Langton - étape 10, dézoom et autoroute (11000 mouvements)
     statement: markdowns/step10.md
-
+  - title: La fourmi de Langton - Le code complet (en utilisant les fonctions des Papers animés)
+    statement: markdowns/prg_complet.md
+ 
 projects:
   paper_coeur:
     root: "/Paper_coeur"
