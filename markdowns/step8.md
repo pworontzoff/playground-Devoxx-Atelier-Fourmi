@@ -1,4 +1,4 @@
-# La fourmi de Langton - étape 8, dézoom et comportement symétrique (472 étapes) !
+# La fourmi de Langton - étape 8, dézoom et comportement symétrique (472 étapes)
 
 ## Les explications
 
