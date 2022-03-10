@@ -76,7 +76,7 @@ Nous devons maintenant obtenir une fourmi de Langton qui va effectuer correcteme
 
 ## Alerte au piège !
 
-**Veiller à écrire correctement *25 millièmes de secondes* en un nombre (avec une virgule) de secondes.**
+**Veiller à écrire correctement *25 millièmes de secondes* en un nombre (réel) de secondes.**
 
 **Rappelons-nous qu'on commence à numéroter les lignes et les colonnes en partant de 0. (P. ex. le numéro de la première ligne est le 0 et le numéro de la quatrième colonne est le 5).**
 
