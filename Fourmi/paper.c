@@ -1,10 +1,6 @@
 #include "paper.h"
 
-void init_paper(int nbl, int nbc, int size, float d, int useStepping) {
-    /******** POUR DEVOXX DEPLACEMENT FOURMI ********/
-    ant_looks = right; // (up is 1 / right is 2 / down is 3 / left is 4)
-    /******** POUR DEVOXX DEPLACEMENT FOURMI ********/
-	
+void init_paper(int nbl, int nbc, int size, float d, int useStepping) {	
     _init_paper(&_paper,nbl,nbc,size,d,useStepping);
 }
 void display_paper() {
@@ -352,49 +348,5 @@ void _create_quad(char *buffer,struct colorize_element *pCur,int dim, int i, int
         sprintf(buffer,"<td id='cell_%d_%d' style='width:%dpx; background-color:rgb(0,0,0,0);'></td>",i,j,dim);
     } else {
         sprintf(buffer,"<td id='cell_%d_%d' style='width:%dpx; background-color:rgb(%d,%d,%d);'></td>",i,j,dim,curColor.red,curColor.green,curColor.blue);
-    }
-}
-
-/******** POUR DEVOXX DEPLACEMENT FOURMI ********/
-
-void ant_turns_right_then_move() {
-    switch (ant_looks) {
-        case up : // ant looks up
-            ant_looks = right;
-            move_right();
-            break;
-        case right : // ant looks right
-            ant_looks = down;
-            move_down();
-            break; 
-        case down : // ant looks down
-            ant_looks = left;
-            move_left();
-            break;
-        case left : // ant looks left
-            ant_looks = up;
-            move_up();
-            break; 
-    }
-}
-
-void ant_turns_left_then_move() {
-    switch (ant_looks) {
-        case up : // ant looks up
-            ant_looks = left;
-            move_left();
-            break;
-        case left : // ant looks left
-            ant_looks = down;
-            move_down();
-            break; 
-        case down : // ant looks down
-            ant_looks = right;
-            move_right();
-            break;
-        case right : // ant looks right
-            ant_looks = up;
-            move_up();
-            break; 
     }
 }
