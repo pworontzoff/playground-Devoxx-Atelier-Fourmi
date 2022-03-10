@@ -39,6 +39,6 @@ Si tout est bon, on constate que la fourmi trace son chemin en respectant le pet
 
 ![dessin472etapes](img/dessin11000etapes.PNG)
 
-Nous avons réussi à mettre en évidence le comportement désordonné de la fourmi. Allons donc vérifier qu'elle finit bien par construire son autoroute !
+Et voilà ! L'autoroute est construite ! Merci à tous pour votre attention et votre participation :-)
 
-
+Pour les curieuses et les curieurs, la page suivante donne l'entièreté du petit programme de la fourmi de Langton (en utilisant les fonctions des Papers animés).
