@@ -60,7 +60,7 @@ Sinon (donc si la case n'est pas coloriée), on la colorie, puis on tourne la fo
 **Bien respecter l'ordre des opérations :**<br />
 **1) Créer le Paper animé ;**<br />
 **2) Se déplacer sur la case du milieu ;**<br />
-**3) REPETER 8 FOIS : SI la case est coloriée, on l'efface et la fourmi par à sa gauche SINON, on la colorie et le fourmi part à sa droite ;**<br />
+**3) REPETER 8 FOIS : SI la case est coloriée, on l'efface et la fourmi part à sa gauche SINON, on la colorie et le fourmi part à sa droite ;**<br />
 **4) Afficher le Paper animé.**
 
 <br />
