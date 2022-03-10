@@ -22,7 +22,7 @@ repeat (n) {
 
 Cette écriture permet de faire répéter plusieurs fois l'exécution d'un certain nombre d'instructions.
 
-- `n` est le nombre de répétitions
+- `n` est le nombre de répétitions (le nombre d'étapes)
 - `instructions_exécutées_n_fois` est une série d'instructions qui seront répétées exactement n fois.
 
 Par exemple, le code :
