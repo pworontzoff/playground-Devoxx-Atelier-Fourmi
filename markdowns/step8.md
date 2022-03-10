@@ -7,7 +7,7 @@ Pour voir le comportement symétrique de notre fourmi, nous allons :
 1) Diminuer la taille des cases pour ne pas avoir un Paper trop grand (d'où l'effet de "dézoom") ;
 1) Accélérer la vitesse de l'animation ;
  
- Tout cela pourra se faire en modifiant les valeurs de paramètres de l'instruction `init_paper();`
+Tout cela pourra se faire en modifiant les valeurs de paramètres de l'instruction `init_paper();`
 
 Pour rappel :
 
@@ -77,6 +77,8 @@ Nous devons maintenant obtenir une fourmi de Langton qui va effectuer correcteme
 ## Alerte au piège !
 
 **Veiller à écrire correctement *25 millièmes de secondes* en un nombre (avec une virgule) de secondes.**
+
+**Rappelez-vous qu'on commence à numéroter les lignes et les colonnes en partant de 0. (P. ex. le numéro de la première ligne est le 0 et le numéro de la quatrième colonne est le 5).**
 
 <br />
 
