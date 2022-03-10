@@ -2,7 +2,25 @@
 
 ## Les explications
 
-Pour voir le comportement symétrique de notre fourmi, nous allons agrandir le Paper animé dans lequel elle se balade au moyen des paramètres 
+Pour voir le comportement symétrique de notre fourmi, nous allons agrandir le Paper animé dans lequel elle se balade en modifiant les valeurs de paramètres de l'instruction `init_paper();`
+
+Pour rappel :
+
+```C
+init_paper(nb_lignes, nb_colonnes, taille, delai_anim, ctrl_les_pas); 
+```
+est une instruction qui permet de créer et paramétrer un Paper.
+
+- `nb_lignes` est un premier *paramètre*, c'est un nombre entier qui donne le nombre de lignes de le Paper
+- `nb_colonnes` est un deuxième paramètre (nombre entier) qui donne le nombre de colonnes de la Peper
+- `taille` donne la dimension en pixels d'une case du Paper (p. ex. 25 pour un Paper dont chaque case mesure 25 pixels de côtés)
+-  `delai_anim` est le temps de pause (en secondes) entre chaque coloriages ou effacements de cases. Ceci permet de contrôler la vitesse de l'animation. Ce délai peut-être un nombre décimal, par exemple 0.05 pour 5 centièmes de seconde.
+-  Nous ne nous préoccuperons pas du paramètre `ctrl_les_pas`, il devra être mis à 0.
+
+
+!!!!!!!!!!!!!!!!!!!!!!!
+
+
 
 Mais nous voulions en fait qu'elle respecte les règles suivantes :
 
