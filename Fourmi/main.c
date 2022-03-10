@@ -6,6 +6,9 @@
 #define left  4
 int ant_looks;
 
+void ant_turns_left_then_move();
+void ant_turns_right_then_move();
+
 int main()
 {
     ant_looks = right;
