@@ -2,7 +2,12 @@
 
 ## Les explications
 
-Pour voir le comportement symétrique de notre fourmi, nous allons agrandir le Paper animé dans lequel elle se balade en modifiant les valeurs de paramètres de l'instruction `init_paper();`
+Pour voir le comportement symétrique de notre fourmi, nous allons :
+1) Agrandir le Paper animé dans lequel elle se balade ;
+1) Diminuer la taille des cases pour ne pas avoir un Paper trop grand (d'où l'effet de "dézoom") ;
+1) Accélérer la vitesse de l'animation ;
+ 
+ Tout cela pourra se faire en modifiant les valeurs de paramètres de l'instruction `init_paper();`
 
 Pour rappel :
 
@@ -17,6 +22,13 @@ est une instruction qui permet de créer et paramétrer un Paper animé.
 -  `delai_anim` est le temps de pause (en secondes) entre chaque coloriages ou effacements de cases. Ceci permet de contrôler la vitesse de l'animation. Ce délai peut-être un nombre décimal, par exemple 0.05 pour 5 centièmes de seconde.
 -  Nous ne nous préoccuperons pas du paramètre `ctrl_les_pas`, il devra être mis à 0.
 
+Nous allons également bien entendu augmenter le nombre de répétitions, cela se fera très simplement en modifiant la valeur de 'n' dans notre boucle.
+
+Pour rappel :
+
+
+
+, en passant de 8 à 472 répétitions.
 
 !!!!!!!!!!!!!!!!!!!!!!!
 
