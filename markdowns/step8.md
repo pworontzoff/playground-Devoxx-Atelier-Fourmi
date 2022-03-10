@@ -22,6 +22,8 @@ est une instruction qui permet de créer et paramétrer un Paper animé.
 -  `delai_anim` est le temps de pause (en secondes) entre chaque coloriages ou effacements de cases. Ceci permet de contrôler la vitesse de l'animation. Ce délai peut-être un nombre décimal, par exemple 0.05 pour 5 centièmes de seconde.
 -  Nous ne nous préoccuperons pas du paramètre `ctrl_les_pas`, il devra être mis à 0.
 
+<br />
+
 Mais en modifiant la taille du Paper, notre fourmi, pour rester au départ au milieu de celui-ci, doit se déplacer au bon endroit dans le Paper (juste après sa création).
 
 Nous devrons donc adapter les valeurs de paramètres de l'instructions `move_to();`
@@ -35,6 +37,8 @@ est une instruction qui permet de déplacer le curseur dans le Paper.
 
 - `ligne` est un premier paramètre, c'est un nombre entier qui donne le numéro de la ligne du Paper à atteindre
 - `colonne` est un deuxième paramètre (nombre entier) qui donne le numéro de la colonne à atteindre. 
+
+<br />
 
 Nous allons également bien entendu augmenter le nombre de répétitions, cela se fera très simplement en modifiant la valeur de 'n' dans notre boucle.
 
