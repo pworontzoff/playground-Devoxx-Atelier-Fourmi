@@ -60,18 +60,18 @@ Cette écriture permet de faire répéter plusieurs fois l'exécution d'un certa
 ## Les consignes de notre mission
 
 Nous avions une fourmi de Langton qui a effectué correctement :
-- 8 étapes ;
-- Dans un petit Paper de 7x7 ;
-- Avec des cases de 25 pixels de côtés ;
-- Avec un délai de pause entre chaque étape de l'animation d'une demi seconde ;
-- Et un curseur (notre fourmi) initialement positionné en 4e ligne, 4e colonne.
+- *8* étapes ;
+- Dans un petit Paper de *7x7* ;
+- Avec des cases de *25* pixels de côtés ;
+- Avec un délai de pause entre chaque étape de l'animation *d'une demi seconde* ;
+- Et un curseur (notre fourmi) initialement positionné en *4e ligne, 4e colonne*.
 
 Nous devons maintenant obtenir une fourmi de Langton qui va effectuer correctement :
-- 472 étapes ;
-- Dans un Paper de 15x15 ;
-- Avec des cases de 20 pixels de côtés ;
-- Avec un délai de pause entre chaque étape de l'animation de 25 millièmes de seconde ;
-- Et un curseur (notre fourmi) initialement positionné en 8e ligne, 8e colonne.
+- ***472*** étapes ;
+- Dans un Paper de ***15x15*** ;
+- Avec des cases de ***20*** pixels de côtés ;
+- Avec un délai de pause entre chaque étape de l'animation ***de 25 millièmes de seconde*** ;
+- Et un curseur (notre fourmi) initialement positionné en ***8e ligne, 8e colonne***.
 <br />
 
 ## Alerte au piège !
