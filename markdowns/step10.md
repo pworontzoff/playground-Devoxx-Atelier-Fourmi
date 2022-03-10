@@ -19,13 +19,13 @@ Nous devons maintenant obtenir une fourmi de Langton qui va effectuer correcteme
 - ***11000*** mouvements ;
 - Dans un Paper de ***75x75*** ;
 - Avec des cases de ***8*** pixels de côtés ;
-- Avec un délai de pause entre chaque étape de l'animation ***d' un quart de millièmes de seconde*** ;
+- Avec un délai de pause entre chaque étape de l'animation ***d' un demi millième de seconde*** ;
 - Et un curseur (notre fourmi) initialement positionné en ***38e ligne, 38e colonne***.
 <br />
 
 ## Alerte au piège !
 
-**Un quart de millième de secondes, écrit en seconde... c'est ? c'est ?**
+**Un demi millième de secondes, écrit en seconde... c'est ? c'est ?**
 
 <br />
 
