@@ -37,7 +37,7 @@ Nous devons maintenant obtenir une fourmi de Langton qui va effectuer correcteme
 
 Si tout est bon, on constate que la fourmi trace son chemin en respectant le petit dessin montré dans la vidéo d'introduction :
 
-![dessin472etapes](img/dessin2000etapes.PNG)
+![dessin472etapes](img/dessin11000etapes.PNG)
 
 Nous avons réussi à mettre en évidence le comportement désordonné de la fourmi. Allons donc vérifier qu'elle finit bien par construire son autoroute !
 
