@@ -41,4 +41,4 @@ Si tout est bon, on constate que la fourmi trace son chemin en respectant le pet
 
 Et voilà ! L'autoroute est construite ! Merci à tous pour votre attention et votre participation :-)
 
-Pour les curieuses et les curieurs, la page suivante donne l'entièreté du petit programme de la fourmi de Langton (en utilisant les fonctions des Papers animés).
+Pour les curieuses et les curieux, la page suivante donne l'entièreté du petit programme de la fourmi de Langton (en utilisant les fonctions des Papers animés).
