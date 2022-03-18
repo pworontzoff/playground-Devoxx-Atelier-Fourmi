@@ -22,7 +22,7 @@ En programmation, une fonction permet de lancer l'exécution de certaines instru
 Par exemple, plutôt que d'écrire une longue séquence d'instruction du type :
 
 - Attrape la poignée de la porte !
-- Troune la poignée !
+- Tourne la poignée !
 - Ramène ton bras vers toi !
 - Lâche la poignée !
 
