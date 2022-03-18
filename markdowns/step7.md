@@ -51,11 +51,11 @@ NB : Cette écriture peut faire penser à des instructions. C'est normal car en 
 
 **Nous devons maintenant préciser que :<br />
 Si la case est coloriée :**
- 1) ** On l'efface, puis **
- 2) ** On tourne la fourmi d'un quart de tour vers sa gauche et on la fait avancer d'une case  !<br />
-Sinon (donc si la case n'est pas coloriée) : **
- 1) ** On la colorie, puis **
- 2) ** On tourne la fourmi d'un quart de tour vers sa droite et on la fait avancer d'une case  !**
+ 1) **On l'efface, puis**
+ 2) **On tourne la fourmi d'un quart de tour vers sa gauche et on la fait avancer d'une case  !<br />**
+**Sinon (donc si la case n'est pas coloriée) :**
+ 1) **On la colorie, puis**
+ 2) **On tourne la fourmi d'un quart de tour vers sa droite et on la fait avancer d'une case  !**
 
 <br />
 
