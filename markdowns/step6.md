@@ -8,7 +8,7 @@ Peut-être 10 fois, peut-être 10 milliards de fois (et ça ne prend pas même u
 
 Si on devait faire ces caluls à la main...
 
-Et tout ça tient dans le concept incontournable des boucles.
+Et tout ça tient en partie dans le concept incontournable des boucles.
 
 Les syntaxes des différentes boucles du langage C sont un peu trop complexes pour cet atelier, mais le langage permet des mécanismes de simplifications (appelés "macros") que nous exploiterons afin de simplifier l'écriture des boucles.
 
