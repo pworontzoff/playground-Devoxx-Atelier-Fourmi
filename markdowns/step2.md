@@ -22,7 +22,7 @@ qui permet de colorier la case sur laquelle on se trouve !
 
 ## Alerte au piège !
 
-N'oubliez pas : L'ordre des instruction a de l'importance ! Et donc, par exemple, colorier avant de créer le Paper ou après l'avoir affiché ne fonctionnera pas !
+N'oubliez pas : L'ordre des instructions a de l'importance ! Et donc, par exemple, colorier avant de créer le Paper ou après l'avoir affiché ne fonctionnera pas !
 
 <br />
 
