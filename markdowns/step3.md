@@ -18,7 +18,7 @@ est une instruction qui permet de déplacer le curseur dans le Paper.
 
 ## Les consignes de notre mission
 
-**Juste avant de colorier, nous devons déplacer notre curseur en quatrième ligne, quatrième colonne (grâce à l'instruction** `move_to();` **) afin de positionner la fourmi au bon endroit !**
+**Juste avant de colorier, nous devons déplacer notre curseur en quatrième ligne, quatrième colonne (grâce à l'instruction** `move_to();` **) afin de positionner la fourmi au bon endroit : en plein milieu de la grille !**
 
 <br />
 
