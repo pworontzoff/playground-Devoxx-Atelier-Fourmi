@@ -38,7 +38,7 @@ Voici un exemple de programme (codé en langage C) qui permet de créer et affic
 
 **! Vous pouvez appuyer sur "Run" pour exécuter ce code et visualiser le "Paper" obtenu. Inutile de comprendre le programme maintenant, nous allons y venir progressivement par la suite.**
 
-*NB : si vous obtenez l'erreur "Unable to open static viewer", ce n'est pas grave, il faut juste insister sur le bouton "run" et ça devrait finir par fonctionner.*
+*NB : si vous obtenez l'erreur "Unable to open static viewer" ou si rien ne s'affiche, ce n'est pas grave, il faut juste insister sur le bouton "run" (ou "success") et ça devrait finir par fonctionner.*
 
 @[paper_coeur]({"stubs": ["main.c"],"command": "sh /project/target/run.sh", "project" : "paper_coeur"})
 
@@ -62,4 +62,4 @@ Prêt pour l'aventure ? Alors, cliquez sur "Next", ci-dessous !
 
 ## Rappel : Unable to open static viewer
 
-Petit rappel avant de se lancer, si vous obtenez l'erreur "Unable to open static viewer", ce n'est pas grave, il faut juste insister sur le bouton "run" ;-) 
+Petit rappel avant de se lancer, si vous obtenez l'erreur "Unable to open static viewer" ou si rien ne s'affiche, ce n'est pas grave, il faut juste insister sur le bouton "run" (ou "success") ;-) 
