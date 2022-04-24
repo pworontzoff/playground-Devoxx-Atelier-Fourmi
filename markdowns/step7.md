@@ -26,7 +26,7 @@ Par exemple, plutôt que d'écrire une longue séquence d'instruction du type :
 - Ramène ton bras vers toi !
 - Lâche la poignée !
 
-Je pourrai simplement écrire :
+On pourra simplement écrire :
 - Ouvre la porte !
 
 Il faut bien sûr, pour que ça marche, que la fonction ait été définie préalablement. Et cela a été fait de telle sorte que nous pourrons donc dire à la fourmi de "tourner d'un quart de tour vers sa gauche, puis avancer !" via la fonction :
