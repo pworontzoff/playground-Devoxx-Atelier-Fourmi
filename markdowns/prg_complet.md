@@ -6,5 +6,7 @@
 
 <br /><br /><br /><br /><hr />
 
-Et pour les inéressé.e.s : Journée portes ouvertes à la HEPL le **samedi 30 avril de 9h à 15h**, sur le site du parc des Marêts à Seraing (**Rue Peetermans 80 - 4100 Seraing**).
+Et pour les inéressé.e.s : **Journée portes ouvertes à la HEPL** :
+- **Quand ?** Le **samedi 30 avril de 9h à 15h** ;
+- **Où ?** Sur le site du parc des Marêts à Seraing (**Rue Peetermans 80 - 4100 Seraing**).
 ![La JPO](img/jpo.png)
