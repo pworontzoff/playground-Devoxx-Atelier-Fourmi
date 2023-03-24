@@ -12,7 +12,7 @@ Pour commencer, nous allons regarder une vidéo (8 minutes) sur le sujet de la f
 
 https://www.youtube.com/watch?v=qZRYGxF6D3w
 
-([Dropbox mov](https://www.dropbox.com/s/p65jy07h4djbdpf/La%20fourmi%20de%20Langton%20-%20Science%20%C3%A9tonnante%20%2321.mp4?dl=0))
+([Dropbox mov](https://www.dropbox.com/s/moann1cfdmop1v4/La%20fourmi%20de%20Langton%20-%20Science%20%C3%A9tonnante%20%2321.mov?dl=0))
 
 ([Dropbox mp4](https://www.dropbox.com/s/18halpu4439yv4p/La%20fourmi%20de%20Langton%20-%20Science%20%C3%A9tonnante%20%2321.mp4?dl=0))
 
