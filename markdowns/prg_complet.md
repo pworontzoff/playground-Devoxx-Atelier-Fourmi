@@ -2,7 +2,15 @@
 
 @[fourmi]({"stubs": ["main.c"],"command": "sh /project/target/run.sh", "project" : "fourmi"})
 
-![CertificatDevoxx.png de mon-diplome.fr](img/CertificatDevoxx.png)
+## Votre diplome !
+
+![diplome](img/diplomeStV.PNG) 
+
+Vous l'avez bien mérité !! 
+
+![applause](img/applause.gif) 
+
+
 
 <!--
 <br /><br /><br /><br /><hr />
