@@ -32,6 +32,4 @@ est une instruction qui permet de déplacer le curseur dans le Paper.
 
 ## Le programme C (à vous les commandes !)
 
-**! N'hésitez pas à revenir en arrière et copier-coller ci-dessous votre programme précédent avant de le modifier.**
-
-@[fourmi1]({"stubs": ["main.c"],"command": "sh /project/target/run.sh", "project" : "fourmi1"})
+@[fourmi1]({"stubs": ["main.c"],"command": "sh /project/target/run.sh", "project" : "fourmi3"})
