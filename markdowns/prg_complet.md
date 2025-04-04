@@ -10,7 +10,7 @@ Vous l'avez bien mérité !!
 
 ![applause](img/applause.gif) 
 
-
+<!--
 
 <br /><br /><br /><br /><hr />
 ## Immersion en informatique
