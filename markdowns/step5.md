@@ -65,7 +65,7 @@ SINON, on la colorie**
 
 ## Le programme C (à vous les commandes !)
 
-@[fourmi1]({"stubs": ["main.c"],"command": "sh /project/target/run.sh", "project" : "fourmi5"})
+@[fourmi5]({"stubs": ["main.c"],"command": "sh /project/target/run.sh", "project" : "fourmi5"})
 
 Si tout est bon, on constate que :
 
