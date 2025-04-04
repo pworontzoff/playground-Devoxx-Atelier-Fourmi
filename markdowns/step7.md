@@ -72,9 +72,7 @@ NB : Cette écriture peut faire penser à des instructions. C'est normal car en 
 
 ## Le programme C (à vous les commandes !)
 
-**! N'hésitez pas à revenir en arrière et copier-coller ci-dessous votre programme précédent avant de le modifier.**
-
-@[fourmi1]({"stubs": ["main.c"],"command": "sh /project/target/run.sh", "project" : "fourmi1"})
+@[fourmi7]({"stubs": ["main.c"],"command": "sh /project/target/run.sh", "project" : "fourmi7"})
 
 Si tout est bon, on constate que la fourmi trace son chemin en respectant le petit dessin montré dans la vidéo d'introduction :
 
