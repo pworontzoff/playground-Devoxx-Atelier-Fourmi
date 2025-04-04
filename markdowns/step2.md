@@ -28,7 +28,7 @@ N'oubliez pas : L'ordre des instructions a de l'importance ! Et donc, par exempl
 
 ## Le programme C (à vous les commandes !)
 
-**! N'hésitez pas à revenir en arrière et copier-coller ci-dessous votre programme précédent avant de le modifier.**
+**(Petite aide: à chaque étape, vous partez du corrigé de l'étape précédente ;-D)**
 
 @[fourmi1]({"stubs": ["main.c"],"command": "sh /project/target/run.sh", "project" : "fourmi2"})
 
