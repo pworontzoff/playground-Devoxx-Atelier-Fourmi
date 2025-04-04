@@ -31,9 +31,7 @@ Nous devons maintenant obtenir une fourmi de Langton qui va effectuer correcteme
 
 ## Le programme C (à vous les commandes !)
 
-**! N'hésitez pas à revenir en arrière et copier-coller ci-dessous votre programme précédent avant de le modifier.**
-
-@[fourmi1]({"stubs": ["main.c"],"command": "sh /project/target/run.sh", "project" : "fourmi1"})
+@[fourmi10]({"stubs": ["main.c"],"command": "sh /project/target/run.sh", "project" : "fourmi10"})
 
 Si tout est bon, on constate que la fourmi trace son chemin en respectant le petit dessin montré dans la vidéo d'introduction :
 
