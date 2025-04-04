@@ -10,9 +10,10 @@ Vous l'avez bien mérité !!
 
 ![applause](img/applause.gif) 
 
-## Immersion en informatique
+
 
 <br /><br /><br /><br /><hr />
+## Immersion en informatique
 
 Et pour Info : **Journée d'immersion en informatique à la HEPL** :
 - **Quand ?** Le **vendredi 18 avril de 8h30 à 15h30** ;
