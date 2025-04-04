@@ -10,13 +10,13 @@ Vous l'avez bien mérité !!
 
 ![applause](img/applause.gif) 
 
+## Immersion en informatique
 
-
-<!--
 <br /><br /><br /><br /><hr />
 
-Et pour les inéressé.e.s : **Journée portes ouvertes à la HEPL** :
-- **Quand ?** Le **samedi 22 avril de 9h30 à 15h** ;
-- **Où ?** Sur le site du parc des Marêts à Seraing (**Rue Peetermans 80 - 4100 Seraing**).
-![La JPO](img/jpo2023.png)
+Et pour Info : **Journée d'immersion en informatique à la HEPL** :
+- **Quand ?** Le **vendredi 18 avril de 8h30 à 15h30** ;
+- **Où ?** Sur le site du parc des Marêts à Seraing (**Rue Peetermans 80 - 4100 Seraing**) ;
+- **Comment ?** En envoyant un mail pour s'inscrire à **tech.secretariat.seraing@hepl.be** (attestation de participation de la HEPL à l'issue de la journée).
+
 -->
