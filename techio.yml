@@ -82,7 +82,7 @@ projects:
       name: techio/cmake-gcc-runner
       version: latest
   fourmi10:
-    root: "/Fourmi9"
+    root: "/Fourmi10"
     runner:
       name: techio/cmake-gcc-runner
       version: latest
