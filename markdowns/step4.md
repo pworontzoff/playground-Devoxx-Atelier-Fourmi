@@ -24,7 +24,7 @@ erase();
 
 ## Le programme C (à vous les commandes !)
 
-@[fourmi1]({"stubs": ["main.c"],"command": "sh /project/target/run.sh", "project" : "fourmi4"})
+@[fourmi4]({"stubs": ["main.c"],"command": "sh /project/target/run.sh", "project" : "fourmi4"})
 
 Si tout est bon, on constate que :
 
