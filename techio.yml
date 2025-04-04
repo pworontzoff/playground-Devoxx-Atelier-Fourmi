@@ -41,6 +41,51 @@ projects:
     runner:
       name: techio/cmake-gcc-runner
       version: latest
+  fourmi2:
+    root: "/Fourmi2"
+    runner:
+      name: techio/cmake-gcc-runner
+      version: latest
+  fourmi3:
+    root: "/Fourmi3"
+    runner:
+      name: techio/cmake-gcc-runner
+      version: latest
+  fourmi4:
+    root: "/Fourmi4"
+    runner:
+      name: techio/cmake-gcc-runner
+      version: latest
+  fourmi5:
+    root: "/Fourmi5"
+    runner:
+      name: techio/cmake-gcc-runner
+      version: latest
+  fourmi6:
+    root: "/Fourmi6"
+    runner:
+      name: techio/cmake-gcc-runner
+      version: latest
+  fourmi7:
+    root: "/Fourmi7"
+    runner:
+      name: techio/cmake-gcc-runner
+      version: latest
+  fourmi8:
+    root: "/Fourmi8"
+    runner:
+      name: techio/cmake-gcc-runner
+      version: latest
+  fourmi9:
+    root: "/Fourmi9"
+    runner:
+      name: techio/cmake-gcc-runner
+      version: latest
+  fourmi10:
+    root: "/Fourmi10"
+    runner:
+      name: techio/cmake-gcc-runner
+      version: latest
   fourmi:
     root: "/Fourmi"
     runner:
