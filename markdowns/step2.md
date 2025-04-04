@@ -30,7 +30,7 @@ N'oubliez pas : L'ordre des instructions a de l'importance ! Et donc, par exempl
 
 **! N'hésitez pas à revenir en arrière et copier-coller ci-dessous votre programme précédent avant de le modifier.**
 
-@[fourmi1]({"stubs": ["main.c"],"command": "sh /project/target/run.sh", "project" : "fourmi1"})
+@[fourmi1]({"stubs": ["main.c"],"command": "sh /project/target/run.sh", "project" : "fourmi2"})
 
 <br />
 
